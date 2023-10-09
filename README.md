@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **python and type script**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SU3ARNA](https://github.com/SU3ARNA)
+- 👨‍💻 All of my projects are available at [https://github.com/subarna007](https://github.com/SU3ARNA)
 
 - 📫 How to reach me **iamsubarnadahal@gmail.com**
 - 📫 How to reach me **dahalsubarna9@gmail.com@gmail.com**

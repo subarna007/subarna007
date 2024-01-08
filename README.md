@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **MERN Projects**
 
-- 🌱 I’m currently learning **python and type script**
+- 🌱 I’m currently learning **python and java script**
 
 - 👨‍💻 All of my projects are available at [https://github.com/subarna007](https://github.com/subarna007)
 

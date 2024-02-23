@@ -10,7 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/subarna007](https://github.com/subarna007)
 
-- 📫 How to reach me **iamsubarnadahal@gmail.com**
 - 📫 How to reach me **dahalsubarna9@gmail.com**
 
 - ⚡ Fun fact **I am too shy but too talkative**

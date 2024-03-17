@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **dahalsubarna9@gmail.com**
 
-- ⚡ Fun fact **I am too shy but too talkative**
+- ⚡ Fun fact ** It’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

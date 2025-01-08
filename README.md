@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m currently learning **MSC Computer Science**
+- 🌱 I’m currently learning **Master in Computer Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/subarna007](https://github.com/subarna007)
 

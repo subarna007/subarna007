@@ -1,44 +1,39 @@
+## Hi, I'm Subarna Dahal
 
-<h1 align="center">Hi 👋, I'm SU3ARNA DAHAL</h1>
-<h3 align="center">Trying to make "Hello world" new ABCD</h3>
+MSc graduate in Information Technology (Artificial Intelligence and Machine Learning), based in Lalitpur, Nepal. I work on **deep learning for medical images** and **NLP for low-resource languages**, with a focus on evaluating models honestly: no data leakage, metrics that reflect real use, and results that others can reproduce.
 
+I am applying for **PhD positions starting in 2027**.
 
+### Research projects
 
-- 🔭 I’m currently working on **Data Science Projects**
+| Project | What it shows |
+|---|---|
+| [**Skin lesion classification on ISIC 2018**](https://github.com/subarna007/skin-lesion-classification-isic2018) | Seven-class dermoscopy classifier evaluated on a lesion-grouped split. ConvNeXt-Tiny with class-balanced sampling raised melanoma sensitivity from 62.2% to 82.1% over a ResNet-50 baseline, and a screening threshold fixed on validation data caught 94.2% of test melanomas. Includes Grad-CAM, similar-case retrieval and a triage web app. A paper on this work is in preparation. |
+| [**Fine-tuning vs. LLMs for Nepali sentiment**](https://github.com/subarna007/Nepali-Sentiment-finetune-vs-llm) | Compares a TF-IDF baseline, fine-tuned XLM-RoBERTa and Qwen2.5-3B (zero- and few-shot) on 33.5k Nepali tweets. Fine-tuning reached 0.707 macro-F1; the untrained LLM reached 0.480 and was beaten by the simple baseline. |
 
-- 🌱 Recently Completed **Master in Computer Science**
+### Other projects
 
-- 👨‍💻 All of my projects are available at [https://github.com/subarna007](https://github.com/subarna007)
+| Project | Area |
+|---|---|
+| [BBC tech search engine](https://github.com/subarna007/IR-Final-Project) | Information retrieval: Boolean retrieval and BM25 implemented from scratch, Streamlit app |
+| [Smart inventory forecast](https://github.com/subarna007/smart-inventory-forecast) | Time-series forecasting (Prophet, random forest) with a FastAPI back end and React dashboard |
+| [BBC news topic classification](https://github.com/subarna007/TextProcessing_NLP) | NLP: TF-IDF and logistic regression, 97.3% test accuracy on five topics |
+| [Twitter sentiment analysis](https://github.com/subarna007/Twitter_Sentiment_Analysis) | NLP: three- and four-class sentiment on two tweet datasets |
+| [Diabetes prediction](https://github.com/subarna007/Diabetes-Prediction-Model) | Clinical tabular data: logistic regression and SVM on the Pima dataset |
+| [Heart failure prediction](https://github.com/subarna007/Heart_Failure-Model) | Clinical tabular data: logistic regression and k-NN |
+| [Loan eligibility prediction](https://github.com/subarna007/Loan-Prediction-Model) | Tabular classification with cross-validation |
 
-- 📫 How to reach me **dahalsubarna9@gmail.com**
+### Skills
 
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+**Machine learning:** PyTorch, timm, Hugging Face Transformers, scikit-learn, Grad-CAM, model evaluation (bootstrap confidence intervals, grouped splits, operating points)
+**Programming and data:** Python, NumPy, pandas, SQL (MySQL), Matplotlib, Seaborn, Tableau
+**Tools:** Git, Jupyter, Kaggle GPUs, FastAPI, Streamlit, Docker
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Education
 
-<a href="https://instagram.com/su3arna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="su3arna" height="30" width="40" /></a>
-</p>
+- **MSc in Information Technology** (Artificial Intelligence and Machine Learning), Presidential Graduate School, Kathmandu, affiliated to Westcliff University, 2024–2026. GPA 4.0
+- **BSc in Computer Science and Information Technology**, Kathford International College of Engineering and Management, 2017–2021
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </p> 
-<!--  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> -->
-<!--   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  -->
-<!--   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> -->
+### Contact
 
-<!--   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> -->
-<!--   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> -->
-<!--   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> -->
-
-
-<!-- <a href="https://fb.com/subarnadahal(zyan)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="subarnadahal" height="30" width="40" /></a> -->
-
-  <!--   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  -->
-  
-<!--   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> -->
- 
+dahalsubarna9@gmail.com

@@ -2,6 +2,8 @@
 
 MSc graduate in Information Technology (Artificial Intelligence and Machine Learning), based in Lalitpur, Nepal. I work on **deep learning for medical images** and **NLP for low-resource languages**, with a focus on evaluating models honestly: no data leakage, metrics that reflect real use, and results that others can reproduce.
 
+**Website:** [subarna007.github.io/personalwebsite](https://subarna007.github.io/personalwebsite/)
+
 ### Research projects
 
 | Project | What it shows |

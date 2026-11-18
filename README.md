@@ -2,8 +2,6 @@
 
 MSc graduate in Information Technology (Artificial Intelligence and Machine Learning), based in Lalitpur, Nepal. I work on **deep learning for medical images** and **NLP for low-resource languages**, with a focus on evaluating models honestly: no data leakage, metrics that reflect real use, and results that others can reproduce.
 
-I am applying for **PhD positions starting in 2027**.
-
 ### Research projects
 
 | Project | What it shows |
